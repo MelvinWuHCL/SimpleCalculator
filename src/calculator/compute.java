@@ -2,6 +2,7 @@ package calculator;
 
 public class compute {
 	
+	//method for computing two numbers
 	void calcCompute(double num1, double num2, char op) {
 		double ans;
 		switch(op) {
